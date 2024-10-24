@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\berdo\\source\\repos\\Portfolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\portfolio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\servicios\\servicioemailsendgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\servicios\\servicioemailsendgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\servicios\\servicioemailsendgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\servicios\\servicioemailsendgrid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -70,43 +70,33 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Portfolio",
-              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
-              "RelativeDocumentMoniker": "Portfolio\\Portfolio.csproj",
-              "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
-              "RelativeToolTip": "Portfolio\\Portfolio.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-24T18:32:20.303Z",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio\\appsettings.json",
+              "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\appsettings.json",
+              "RelativeToolTip": "Portfolio\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-24T19:09:09.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "ServicioEmailSendGrid.cs",
               "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Servicios\\ServicioEmailSendGrid.cs",
               "RelativeDocumentMoniker": "Portfolio\\Servicios\\ServicioEmailSendGrid.cs",
               "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Servicios\\ServicioEmailSendGrid.cs",
               "RelativeToolTip": "Portfolio\\Servicios\\ServicioEmailSendGrid.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBgAAAA5AAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-03T16:50:48.91Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ContactoViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Models\\ContactoViewModel.cs",
-              "RelativeDocumentMoniker": "Portfolio\\Models\\ContactoViewModel.cs",
-              "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Models\\ContactoViewModel.cs",
-              "RelativeToolTip": "Portfolio\\Models\\ContactoViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T18:36:41.787Z"
+              "WhenOpened": "2024-09-03T16:50:48.91Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -134,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Portfolio\\Views\\Home\\Index.cshtml",
@@ -142,12 +132,11 @@
               "RelativeToolTip": "Portfolio\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-08-20T17:15:32.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T17:15:32.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Portfolio\\Controllers\\HomeController.cs",
@@ -155,20 +144,32 @@
               "RelativeToolTip": "Portfolio\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-20T17:15:16.327Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-20T17:15:16.327Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Portfolio\\appsettings.Development.json",
               "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\appsettings.Development.json",
               "RelativeToolTip": "Portfolio\\appsettings.Development.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-03T17:25:47.421Z"
+              "WhenOpened": "2024-09-03T17:25:47.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContactoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Models\\ContactoViewModel.cs",
+              "RelativeDocumentMoniker": "Portfolio\\Models\\ContactoViewModel.cs",
+              "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Models\\ContactoViewModel.cs",
+              "RelativeToolTip": "Portfolio\\Models\\ContactoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T18:36:41.787Z"
             },
             {
               "$type": "Document",
