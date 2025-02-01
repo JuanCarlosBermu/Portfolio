@@ -21,10 +21,6 @@
       "PackagePath": "staticwebassets\\Imagenes\\JavaIcon1.PNG"
     },
     {
-      "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\MiFotoPerfil.jpg",
-      "PackagePath": "staticwebassets\\Imagenes\\MiFotoPerfil.jpg"
-    },
-    {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\SteamImg.png",
       "PackagePath": "staticwebassets\\Imagenes\\SteamImg.png"
     },
@@ -37,12 +33,20 @@
       "PackagePath": "staticwebassets\\Imagenes\\dotNetIcon.png"
     },
     {
+      "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\fpct.jpg",
+      "PackagePath": "staticwebassets\\Imagenes\\fpct.jpg"
+    },
+    {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\javaIcon.png",
       "PackagePath": "staticwebassets\\Imagenes\\javaIcon.png"
     },
     {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\javaImg.png",
       "PackagePath": "staticwebassets\\Imagenes\\javaImg.png"
+    },
+    {
+      "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\personal-budget-manager.png",
+      "PackagePath": "staticwebassets\\Imagenes\\personal-budget-manager.png"
     },
     {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\css\\site.css",

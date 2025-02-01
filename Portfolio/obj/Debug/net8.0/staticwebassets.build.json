@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "78ZIl1NXiPmij/+mGTTHgtONqPJStak4/rRLNxr6M54=",
+  "Hash": "wkp/4phNvQBrLk+vsTy/h7wtBYBEwFaCcyyVFwh74LM=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -188,6 +188,25 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\FacebookImg.png"
     },
     {
+      "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\fpct.jpg",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Imagenes/fpct.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\fpct.jpg"
+    },
+    {
       "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\javaIcon.png",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -245,12 +264,12 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\javaImg.png"
     },
     {
-      "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\MiFotoPerfil.jpg",
+      "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\personal-budget-manager.png",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
       "BasePath": "_content/Portfolio",
-      "RelativePath": "Imagenes/MiFotoPerfil.jpg",
+      "RelativePath": "Imagenes/personal-budget-manager.png",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -261,7 +280,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\Imagenes\\MiFotoPerfil.jpg"
+      "OriginalItemSpec": "wwwroot\\Imagenes\\personal-budget-manager.png"
     },
     {
       "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\SteamImg.png",

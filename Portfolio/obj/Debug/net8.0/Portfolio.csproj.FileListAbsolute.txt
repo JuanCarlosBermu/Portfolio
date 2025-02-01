@@ -33,3 +33,4 @@ C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\SendGrid.dll
 C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\StarkbankEcdsa.dll
 C:\Users\berdo\source\repos\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.AssemblyReference.cache
 C:\Users\berdo\source\repos\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.Up2Date
+C:\Users\berdo\source\repos\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
