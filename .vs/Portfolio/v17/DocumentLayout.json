@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\berdo\\source\\repos\\Portfolio\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|c:\\users\\berdo\\source\\repos\\portfolio\\portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{16F0E49E-3609-4E38-8CB4-0835A1EBC358}|Portfolio\\Portfolio.csproj|solutionrelative:portfolio\\portfolio.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Portfolio",
+              "DocumentMoniker": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeDocumentMoniker": "Portfolio\\Portfolio.csproj",
+              "ToolTip": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
+              "RelativeToolTip": "Portfolio\\Portfolio.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-03T19:37:32.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
