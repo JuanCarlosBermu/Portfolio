@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "wkp/4phNvQBrLk+vsTy/h7wtBYBEwFaCcyyVFwh74LM=",
+  "Hash": "+RK+1gM9/4kdrqhkk8B/dqHkcd3vPhpgmsABNzyOdcE=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -129,6 +129,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\AmazonImg.png"
+    },
+    {
+      "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\blog-app.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Imagenes/blog-app.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\blog-app.png"
     },
     {
       "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\dotNetIcon.png",
@@ -264,6 +283,25 @@
       "OriginalItemSpec": "wwwroot\\Imagenes\\javaImg.png"
     },
     {
+      "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\monky-app.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Imagenes/monky-app.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\monky-app.png"
+    },
+    {
       "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\personal-budget-manager.png",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -281,6 +319,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\Imagenes\\personal-budget-manager.png"
+    },
+    {
+      "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\spotilyst-app.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Imagenes/spotilyst-app.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Imagenes\\spotilyst-app.png"
     },
     {
       "Identity": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\SteamImg.png",

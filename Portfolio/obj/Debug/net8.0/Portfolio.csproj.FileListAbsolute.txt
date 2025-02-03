@@ -34,3 +34,8 @@ C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\StarkbankEcdsa.
 C:\Users\berdo\source\repos\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.AssemblyReference.cache
 C:\Users\berdo\source\repos\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.csproj.Up2Date
 C:\Users\berdo\source\repos\Portfolio\Portfolio\obj\Debug\net8.0\Portfolio.sourcelink.json
+C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\out\web.config
+C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\out\appsettings.Development.json
+C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\out\appsettings.json
+C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\out\Portfolio.deps.json
+C:\Users\berdo\source\repos\Portfolio\Portfolio\bin\Debug\net8.0\out\Portfolio.runtimeconfig.json

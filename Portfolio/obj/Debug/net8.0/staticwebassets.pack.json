@@ -29,6 +29,10 @@
       "PackagePath": "staticwebassets\\Imagenes\\YoutubeImg.png"
     },
     {
+      "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\blog-app.png",
+      "PackagePath": "staticwebassets\\Imagenes\\blog-app.png"
+    },
+    {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\dotNetIcon.png",
       "PackagePath": "staticwebassets\\Imagenes\\dotNetIcon.png"
     },
@@ -45,8 +49,16 @@
       "PackagePath": "staticwebassets\\Imagenes\\javaImg.png"
     },
     {
+      "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\monky-app.png",
+      "PackagePath": "staticwebassets\\Imagenes\\monky-app.png"
+    },
+    {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\personal-budget-manager.png",
       "PackagePath": "staticwebassets\\Imagenes\\personal-budget-manager.png"
+    },
+    {
+      "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\Imagenes\\spotilyst-app.png",
+      "PackagePath": "staticwebassets\\Imagenes\\spotilyst-app.png"
     },
     {
       "Id": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\wwwroot\\css\\site.css",
