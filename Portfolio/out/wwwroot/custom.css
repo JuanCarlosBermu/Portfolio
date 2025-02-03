@@ -1,0 +1,122 @@
+﻿#foto {
+    width: 200px;
+    margin: 2rem 0;
+    border-radius: 50%
+}
+
+.seccion-bienvenida{
+    margin-top:1rem;
+    margin: 5rem 0 10rem 0;
+    color: white;
+}
+
+
+.text-center-proyectos{
+    margin-top: 5rem;
+    margin-bottom: 1rem;
+    text-align:center;
+
+
+}
+
+.My_name {
+    font-size: 3rem;
+    font-family: Consolas;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 0;
+    border-right: 3px solid white; /* Cursor efecto */
+    animation: typing 3s steps(20, end) forwards, blink 0.7s infinite;
+}
+
+@keyframes typing {
+    from {
+        width: 0;
+    }
+
+    to {
+        width: 100%;
+    }
+}
+
+@keyframes blink {
+    50% {
+        border-color: transparent;
+    }
+}
+
+
+
+.navbar {
+    background-color: white;
+    color: white;
+    display: flex;
+    justify-content: space-between; /* Espacia elementos a los lados */
+    align-items: center; /* Centra verticalmente */
+    padding: 15px 30px;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5rem;
+    
+}
+
+
+body{
+    font-family:'Poppins', sans-serif;
+}
+.seccion-bienvenida h1{
+    margin-bottom: 1rem;
+
+}
+
+.seccion-bienvenida p{
+    font-family: 'Lucida Sans';
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
+
+/*Este es para ponerle estilo a los iconos de lenguajes*/
+.contenedor-imagenes {
+    width: 50px;
+    height: 70px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    background-color: #f8f9fa;
+    margin-bottom: 1rem;
+    gap: 30px;
+}
+    
+.cabecera{
+    font-weight: bold;
+}
+
+
+.row justify-content-md-center text-center{
+    margin-bottom: 4rem;
+}
+
+.text-center-proyectos{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+    text-align:center;
+
+}
+.languages {
+    text-align: center;
+    margin-top: 9rem;
+    margin-bottom: 9rem;
+    font-family: "Poppins", sans-serif;
+    font-size: 2.5rem;
+}
+
+.habilidades ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+.habilidades i{
+    color: royalblue;
+    font-size:40px;
+}
