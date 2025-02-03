@@ -1,6 +1,6 @@
 [build]
 builder = "dockerfile"
-dockerfilPath = "./Portfolio/Dockerfile"
+dockerfilePath = "./Portfolio/Dockerfile"
 
 [Deploy]
 startCommand = "./Portfolio"
