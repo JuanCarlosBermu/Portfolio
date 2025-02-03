@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\berdo\\source\\repos\\portfolio\\portfolio\\Portfolio.csproj": {}
+    "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\berdo\\source\\repos\\portfolio\\portfolio\\Portfolio.csproj": {
+    "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\berdo\\source\\repos\\portfolio\\portfolio\\Portfolio.csproj",
+        "projectUniqueName": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
         "projectName": "Portfolio",
-        "projectPath": "C:\\Users\\berdo\\source\\repos\\portfolio\\portfolio\\Portfolio.csproj",
+        "projectPath": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\Portfolio.csproj",
         "packagesPath": "C:\\Users\\berdo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\berdo\\source\\repos\\portfolio\\portfolio\\obj\\",
+        "outputPath": "C:\\Users\\berdo\\source\\repos\\Portfolio\\Portfolio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\berdo\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -46,6 +46,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "SendGrid": {
               "target": "Package",
               "version": "[9.29.3, )"
